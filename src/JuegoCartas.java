@@ -81,9 +81,12 @@ public class JuegoCartas {
         }
         return cartas;
     }
-    public static void inicializarcartasjuego() {
+    //public static void inicializarCartasJuego(ArrayList<Carta> mazo) {}
 
-    }
+   // public static void obtenercarta() {}
+
+    //public static void jugar(){}
+
 
 
 
